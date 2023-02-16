@@ -159,6 +159,9 @@ img {
 }
 
 .hero-bgc {
+  max-width: 1440px;
+  margin-left: auto;
+  margin-right: auto;
   background-color: var(--primary-navy-blue);
   padding: 188px 0;
   border: none;
