@@ -358,8 +358,6 @@ img {
 .portfolip-cards-list li:hover,
 .portfolip-cards-list li:focus {
   box-shadow: var(--porfol-box-shedow);
-  /* overflow: hidden; */
-  outline: none;
 }
 .div-portfol-cards {
   width: 360px;
